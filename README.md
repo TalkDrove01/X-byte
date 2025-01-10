@@ -6,3 +6,5 @@
 > **`Powered by TalkDrove`**
 > 
 ---
+
+https://raw.githubusercontent.com/HyHamza/HyHamza/refs/heads/main/Images/XByte-logo.png
