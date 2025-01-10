@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/TalkDrove01"><img title="Developer" src="https://img.shields.io/badge/Author-Jawad%20TechX-FF7604.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/TalkDrove01"><img title="Developer" src="https://img.shields.io/badge/Author-Talk%20Drove01-FF7604.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
